@@ -1,4 +1,4 @@
-import 'package:components_fluter/src/home_temp.dart';
+import 'package:components_fluter/src/home_page.dart';
 import 'package:flutter/material.dart';
  
 void main() => runApp(MyApp());
@@ -9,7 +9,7 @@ class MyApp extends StatelessWidget {
     return MaterialApp(
       title: 'Material App',
       debugShowCheckedModeBanner: false, // para quitar el liston rojo de debug
-      home: HomePageTemp()
+      home: HomePage()
     );
   }
 }

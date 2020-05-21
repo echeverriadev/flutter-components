@@ -7,6 +7,11 @@
       "texto": "Alertas"
     },
     {
+      "ruta": "scaffold",
+      "icon": "pages",
+      "texto": "Scaffold"
+    },
+    {
       "ruta": "avatar",
       "icon": "accessibility",
       "texto": "Avatars"
